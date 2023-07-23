@@ -1,10 +1,10 @@
 * omer-count
 
+A small Common Lisp script to aid in the counting of the days and
+weeks from Pesach to Shavuot.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/DataLinkDroid/omer-count.git   |
-| commit  | {"messa  |
-| systems | omer-count |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://gitlab.com/DataLinkDroid/omer-count.git |
+| commit  | 7cc801e                                             |
+| systems | omer-count                                          |
+|---------+-----------------------------------------------------|
