@@ -6,5 +6,5 @@ weeks from Pesach to Shavuot.
 |---------+-----------------------------------------------------|
 | source  | git:https://gitlab.com/DataLinkDroid/omer-count.git |
 | commit  | 7cc801e                                             |
-| systems | omer-count                                          |
+| systems | eclecticse.omer                                     |
 |---------+-----------------------------------------------------|
