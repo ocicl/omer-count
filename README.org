@@ -8,4 +8,4 @@ weeks from Pesach to Shavuot.
 | commit  | 7cc801e                                             |
 | systems | eclecticse.omer                                     |
 |---------+-----------------------------------------------------|
- 
+  
